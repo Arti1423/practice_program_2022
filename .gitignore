@@ -1,2 +1,5 @@
 *.exe
 *.vscode
+pp_22env
+__pycache__
+*.pyc 
